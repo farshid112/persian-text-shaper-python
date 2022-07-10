@@ -7,6 +7,7 @@ Example:
 from persian_Text import persian_ as p
 
 txtlist = [1.'63'.'فرشید'.'farshid'.'farshid112'.'هویج خیار']
+
 txt = 'فرشید'
 
-print(f(txtlist),'\t',f(txt))
+print(p(txtlist),'\t',p(txt))
