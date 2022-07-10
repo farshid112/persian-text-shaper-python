@@ -1,2 +1,12 @@
 # persian-text-shaper-python
-Use can pass to this function any text or list of text's , then if text contain Persian(fa) text with this function  everything is ok.
+You can pass to this function any text or list of text's , then if text contain Persian(fa) text with this function  everything is ok.
+How to use?
+
+Example:
+
+from persian_Text import persian_ as p
+
+txtlist = [1.'63'.'فرشید'.'farshid'.'farshid112'.'هویج خیار']
+txt = 'فرشید'
+
+print(f(txtlist),'\t',f(txt))
