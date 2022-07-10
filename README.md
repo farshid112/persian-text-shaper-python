@@ -6,7 +6,7 @@ Example:
 
 from persian_Text import persian_ as p
 
-txtlist = [1.'63'.'فرشید'.'farshid'.'farshid112'.'هویج خیار']
+txtlist = [1,'63','فرشید','farshid','farshid112','هویج خیار']
 
 txt = 'فرشید'
 
